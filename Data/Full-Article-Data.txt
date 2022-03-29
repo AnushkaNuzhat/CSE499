@@ -1,0 +1,616 @@
+0.
+Like to Tinker? NASA's Looking for You
+
+STEVE JONES doesn't have a workshop, exactly, for his miniature space elevator; he is designing it in his dorm room and in four labs scattered across the University of British Columbia.
+
+
+He doesn't have a staff, either; a collection of friends and fellow space enthusiasts volunteer to help. And his budget, in the low five figures, comes mostly from the school activities fund, although Red Bull is donating some energy drinks.
+
+
+But he might soon have a chance to join the ranks of the aerospace establishment by getting money from NASA and, in his own way, helping explore the solar system. To get ready, he is spending 60 hours a week on his elevator, which is meant to haul people and gear into orbit without a rocket. He has even put off graduation until the project is done.
+
+
+Until recently, the chances that a college senior like Mr. Jones would contribute to the NASA space program were remote. Contracts belonged mostly to the Boeings of the world. Tinkerers and students were kept at the far edge of the periphery. But with budgets tightening and the obstacles to human space exploration looking more daunting, NASA is enlisting the expertise of outsiders.
+
+
+For example, the agency is offering 13 contests, which it calls Centennial Challenges, that anyone can enter. The prizes range from $200,000 to more than $5 million, for building gear as diverse as solar sails, lunar excavators and the tiny elevators.
+
+
+But more important than the cash prizes, contestants and administrators say, is the opportunity to sidestep the traditional ways NASA has done business and bring some fresh faces to its ranks.
+
+
+"With a regular contract, a small group of students like us wouldn't have a chance," Mr. Jones said. "This way, anyone with a good idea can contribute."
+
+
+Mr. Jones hadn't thought much about contests until the X Prize, the $10 million competition to get private spacecraft into suborbital flight. He was drawn to the idea that entrepreneurs could go into space. So when NASA announced its first Centennial Challenges, Mr. Jones signed up.
+
+Competitors in the Beam Power Challenge -- which includes the elevator component -- had to make a two-foot-tall machine powered by light or microwaves that could crawl up a 200-foot rubber-coated fiber ribbon. Space enthusiasts hope that such a machine -- an elevator, of sorts -- could one day reach 62,000 miles into the sky, delivering people and packages into orbit at a fraction of the cost of today's launchings. The winner would be, in effect, one of the space elevator's earliest drafts.
+
+When the contest was held last October, none of the eight entrants made it all the way up the ribbon. But Mr. Jones's Snowstar machine traveled farthest, all of 20 feet. The hexagonal array of solar cells, powering two pairs of rollers that shimmied up the ribbon, was judged Most Likely to Win in the 2006 challenge, set for August. The prize has been increased to $250,000 this year, from $50,000. To win, the climbers must make it up the ribbon in less than a minute. So far, 19 teams have signed up, nearly twice as many as in 2005.
+
+Another well-known high-tech contest, the Darpa Grand Challenge, also had disappointing results when it started in 2004. The all-robot off-road rally, sponsored by the Pentagon's fringe science arm, the Defense Advanced Research Projects Agency, or Darpa, attracted dozens of competitors. But none of the vehicles made it past the seventh mile of the 150-mile course, largely because of navigation problems.
+
+A year later, five unmanned cars crossed the finish line. That included robots from leading universities like Stanford and Carnegie Mellon as well as one from the Gray Insurance Company, which had no experience in robotics but whose owners had a personal interest in the competition. The Gray team was one of the last to enter the contest, and it had a major setback when Hurricane Katrina wrecked its New Orleans workshop.
+
+Nevertheless, it beat out vehicles built by leading computer-science researchers and backed by defense contractors. It did so well that it has pulled some employees from the insurance side of the business, allowing them to focus on the company's new venture: robotic cars for the military and other entities.
+
+"I never thought I'd work in defense," said Paul Trepagnier, a software development manager at Gray. "I'm a Tom Clancy fan. But that's the extent. I mean, I'm just a programmer in an insurance company."
+
+Many of NASA's contests also center on robotics. The Telerobotic Construction Challenge, scheduled for August 2007, requires a team of machines to assemble items with minimal human supervision. The idea is to let robots, instead of astronauts, build shelters and machinery on the moon and Mars. In the Regolith Excavation Challenge, set for May 2007, an autonomous machine will have to dig through 24 square meters of simulated moon rock. A separate Regolith Oxygen competition, scheduled for 2008, will be held for robots that can extract oxygen from the stones. Some contests will be held annually; others will be one-time events.
+
+NASA funds robotics research through conventional contracts too, and it uses Small Business Innovation Research grants to back companies outside the industry's mainstream. But the paperwork involved in the innovation research grants, called S.B.I.R.'s, can be intimidating.
+
+"I don't have the grant-writing experience to get one of those," said Matthew Abrams, one of the competitors. "The contest seemed like a better deal. And winning something like this can give us the credibility and the contacts to go after S.B.I.R.'s."
+
+The competitions offer economic benefits to NASA as well. The contestants, not the space agency, pay for the development. The winner of a big technology prize usually spends three times the purse value, said Carl E. Walz, a former astronaut who works in NASA's exploration systems mission directorate.
+
+"Typically in R. & D., you pay as you go," Mr. Walz said, referring to NASA's outlays for research and development. "You pay for failures and you pay for successes. Here, you don't pay until someone wins."
+
+NASA officials say that some of their contractors are worried that the contests could undermine their work for the space agency. NASA already has companies working on gloves for its space suits; why, then, does it need an Astronaut Glove Challenge? Exactly how good ideas from the competitions will be integrated into the space program isn't entirely clear. "We're still writing the book on this," Mr. Walz said.
+
+But within NASA, enthusiasm for the challenges seems to be growing. The agency announced six more contests in February, including $5 million for the first team that can store or produce rocket fuel in orbit and $2.5 million for the builders of a working solar sail.
+
+If they win, both Mr. Jones and Mr. Abrams said they hoped to use their prize money to enter some of these more complex challenges, like the lunar lander competition being held by NASA and the X Prize Foundation.
+
+Gregg E. Maryniak, executive vice president of the foundation, said he looked forward to having them enter. "One of the biggest reasons to do this is to bring in people outside the existing ecosystem," he said.
+
+"Look, a hundred years ago, a couple of pesky bike mechanics from Dayton, Ohio, bested, in effect, the government-funded player, to become the first to fly," he added. "That's why you put on these things: to attract the bicycle mechanics."
+
+
+1.
+Many Common Medications Can Raise Your Blood Pressure
+
+Popular pain relievers and antidepressants, as well as alcohol and herbal supplements, are among the many substances that can contribute to hypertension.
+
+
+High blood pressure remains a leading cause of death and disability in America today. Nearly half of adults have high blood pressure, and only a quarter of them have their blood pressure under control, putting them at increased risk of heart attack, stroke, dementia, kidney disease and other ills.
+
+
+Before the coronavirus pandemic, high blood pressure caused or contributed to more than half a million deaths a year in the United States, according to the Centers for Disease Control and Prevention. Those numbers have most likely increased, as blood pressure readings have shot up during the pandemic.
+
+You may have long thought your blood pressure was within normal limits. But in 2017, based on better long-term data, experts lowered the numbers that constitute a healthy blood pressure, resulting in a greater proportion of the population with this risky condition. The former upper limit of “normal” blood pressure, once believed to be 140 over 90 millimeters of mercury, was recognized as too high to prevent serious health problems over time. The current upper limit of normal is 130 over 80, and a blood pressure consistently above 120 over 80 is now considered problematic.
+
+There are many reasons for the nation’s high rate of uncontrolled hypertension, the medical term for high blood pressure. Being overweight and, for many, excessive consumption of salt lead the list, followed by inconsistent use of medically prescribed remedies and a failure to adopt lifestyle measures that can reduce elevated blood pressure.
+
+Now, a new study has highlighted another problem often unknown to patients and overlooked by doctors that can complicate treatment of hypertension and swell the ranks of those with uncontrolled high blood pressure: the large number of medications and supplements people take, some of which can raise blood pressure and undermine the benefits of otherwise effective treatment.
+
+The study involved 27,599 adults, 35.4 percent of whom had uncontrolled hypertension, who were part of the National Health and Nutrition Examination Surveys. The periodic surveys, which are known as NHANES and track the health of a representative sample of Americans, found that many people took medications and other substances that could raise an otherwise normal blood pressure or limit the effectiveness of treatment prescribed to lower an elevated blood pressure.
+
+Among adults in the survey, 17.5 percent whose hypertension was not adequately controlled were taking prescription drugs that can raise blood pressure, the researchers reported. And 18.5 percent of survey participants with hypertension that was effectively treated were also taking such drugs, suggesting that some of these people might not otherwise need blood pressure treatment.
+
+The study was published online in November in JAMA Internal Medicine. Its senior author, Dr. Timothy S. Anderson, a primary care doctor at Beth Israel Deaconess Medical Center in Boston, said he and his colleagues hoped to alert more doctors and patients to the ways medications or other substances might be contributing to increased blood pressure. Increased awareness would be especially helpful before patients were prescribed drugs to lower blood pressure or given more potent drugs to enhance the effectiveness of current treatment.
+
+For some medical conditions unrelated to hypertension, switching to a different drug might bring a patient’s elevated blood pressure back down to normal. For example, the study authors suggested, women on an estrogen-containing oral contraceptive, which can raise blood pressure, might be switched to a progestin-only or nonhormonal contraceptive. Similarly, those taking a nonsteroidal anti-inflammatory drug, or NSAID, to control pain might use acetaminophen instead.
+
+There’s a long list of prescribed medications, as well as over-the-counter drugs and recreational substances and supplements, that can interfere with effective treatment for hypertension. In addition to estrogen-containing drugs and NSAIDS, the list includes widely used medicines like antidepressants and oral steroids such as cortisone; substances like nicotine, alcohol and cocaine; herbal supplements like licorice or ginseng; and, of course, salt. Caffeine, too, can raise blood pressure over the short-term in some people.
+
+When doctors fail to ask patients what else they may be taking, using or consuming that can affect blood pressure — or if patients neglect to mention all of the over-the-counter and herbal remedies and prescription drugs they take — patients may be prescribed an unnecessary or more potent blood pressure drug that may have bothersome side effects.
+
+Dr. Anderson said that doctors were “taught to screen patients initially for other drugs being taken that can raise blood pressure, but patients are not necessarily rechecked for such drug use over time.” He said that it was important for doctors to take good medical histories, including what might have changed in patients’ lives since their blood pressures were last under control.
+
+“Maybe there was a change in diet that caused a quick rise in blood pressure,” Dr. Anderson said. “For example, some patients are very salt-sensitive,” he said. “Along with age and weight, it’s the strongest predictor of high blood pressure over time.” Changing just one frequently consumed high-salt food, like pizza, cured meats or canned soup, may be enough to lower the risk of hypertension.
+
+Complicating matters is that people’s reactions to various substances, like the commonly prescribed S.S.R.I. antidepressants, are “very idiosyncratic,” he explained. “A particular S.S.R.I. may have a high impact on blood pressure in some patients but not others.”
+
+2.
+The Year in Fitness: Shorter Workouts, Greater Clarity, Longer Lives
+
+The most vital exercise science of 2021 provided a reminder that our bodies and minds can flourish, no matter our circumstances.
+
+In a year filled with Covid-related hopes, setbacks, advances and losses, the most vital exercise science of 2021 provided a reminder that for many of us, our bodies and minds can strengthen, endure and flourish, no matter our circumstances. If we move our bodies in the right ways, a growing body of evidence suggests we might live with greater stamina, purpose and cognitive clarity for many years to come. And it may not take much movement.
+
+In fact, some of the year’s biggest fitness news concerned how little exercise we might be able to get away with, while maintaining or even improving our health. A study from January, for instance, showed that just five minutes of intense calisthenics substantially improved college students’ aerobic fitness and leg strength. Another series of studies from the University of Texas found that four seconds — yes, seconds — of ferocious bicycle pedaling, repeated several times, was enough to raise adults’ strength and endurance, whatever their age or health when they started.
+
+Even people whose favorite workout is walking might need less than they think to reach an exercise sweet spot, other new research suggested. As I wrote in July,  the familiar goal of 10,000 daily steps, deeply embedded in our activity trackers and collective consciousness, has little scientific validity. It is a myth that grew out of a marketing accident, and a study published this summer further debunked it, finding that people who took between 7,000 and 8,000 steps a day, or a little more than three miles, generally lived longer than those strolling less or accumulating more than 10,000 steps. So keep moving, but there’s no need to fret if your total doesn’t reach a five-figure step count.
+
+Of course, exercise science weighed in on other resonant topics this year, too, including weight. And the news there was not all cheering. Multiple studies this year reinforced an emerging scientific consensus that our bodies compensate for some of the calories we expend during physical activity, by shunting energy away from certain cellular processes or prompting us unconsciously to move and fidget less. A study from July, for example, that examined the metabolisms of almost 2,000 people concluded that we probably compensate, on average, for about a quarter of the calories we burn with exercise. As a result, on days we exercise, we wind up burning far fewer total calories than we might think, making weight loss that much more challenging.
+
+On the other hand, exercise seems essential for weight maintenance, according to other research this year. A new scientific analysis of participants from the TV weight-loss contest “The Biggest Loser” found that those who exercised the most in the years after the program ended were the least likely to have regained all of the pounds they shed during the show.
+
+Exercise also has a disproportionate impact on our odds of enjoying a long, healthy life. According to one of the most inspiring studies this year, overweight people who started working out lowered their risk of premature death by about 30 percent even if they remained overweight, with exercise providing about twice as much benefit as weight loss might.
+
+Exercise enhances our brain power, too, according to other, memorable experiments from this year. They showed physical activity fortifying immune cells that help protect us against dementia; prompting the release of a hormone that improves neuron health and the ability to think (in mice); shoring up the fabric of our brains’ white matter, the stuff that connects and protects our working brain cells; and likely even adding to our creativity. In a nifty study from February, physically active people tended to dream up more-inventive ways to use car tires and umbrellas, a standard test of creativity, than people who seldom moved around much.
+
+Taken together, this year’s exercise neuroscience research makes “a strong case for getting up and moving” if we hope to use our brains with ongoing clarity and in imaginative ways deep into our golden years, as one of the researchers said to me.
+
+Still, the study that stuck with me most this year had less to do with the myriad ways exercise remodels our bodies and brains and more with how it might shape our sense of what matters. In the study, which I wrote about in May, active people reported a stronger sense of purpose in their lives than inactive people.
+
+“A sense of purpose is the feeling you get from having goals and plans that give direction and meaning to life,” the study’s lead researcher told me. “It is about being engaged with life in productive ways.” The study found that exercise amplified people’s purposefulness over time, while simultaneously, a sturdy sense of purpose fortified people’s willingness to exercise. In effect, the more people felt their lives had meaning, the more they wound up moving, and the more they moved, the more meaningful they found their lives.
+
+It’s a result worth remembering as we look ahead with wary optimism. So stay healthy, active and in touch in 2022, everyone. Here’s to a happy new year!
+
+3.
+Michael Phelps: ‘I Can’t See Any More Suicides’
+In the documentary “The Weight of Gold,” Phelps presents a stark picture of the mental wear and tear Olympians endure.
+
+The relationship between the United States Olympic and Paralympic Committee and its most decorated Olympian, Michael Phelps, has been rocky for years.
+
+The more Phelps won, and did he ever win, racking up 28 Olympic medals across five Games, the more he became the organization’s poster child, worthy of whatever special treatment it could provide. Or, from Phelps’s perspective, he was the latest and greatest commodity that Olympics promoters cared about only as a medal-producing swimming machine.
+
+Phelps distills that dynamic near the end of “The Weight of Gold,” the HBO Sports documentary he narrates about depression and other mental illnesses with which Olympians struggle. Phelps is also an executive producer of the film, which was set to have its premiere on Wednesday night.
+
+“I can honestly say, looking back on my career, I don’t think anybody really cared to help us,” he says, staring blankly at an offscreen interviewer. “I don’t think anyone jumped in to ask us if we were OK. As long as we were performing, I don’t think anything else really mattered.”
+
+In recent weeks, as they have braced for the release of the film and the criticism it levels at a system that long prioritized winning over everything else, Olympic officials past and present have noted all the perks Phelps received during his career, including top training and coaching, access to cutting-edge technology and a two-bedroom suite at the Olympic Training Center in Colorado Springs that only he and the occasional visiting physician used if he wasn’t there. Everyone else slept in single or double rooms.
+
+But that uneven treatment and response to the film, Phelps said in an interview this week, illustrates how Olympic officials and coaches view athletes as valuable assets during their brief windows of Olympic glory, but then leave them largely on their own during the years between Games. And when their careers are interrupted or over, the system moves on to the next star.
+
+“I feel like they don’t care about anything I do right now,” Phelps, 35, said of the United States Olympic and Paralympic Committee.
+
+In recent months, the committee, which says it has always welcomed and wanted Phelps’s input, has formed a mental health task force to help change and expand a system that its chief executive, Sarah Hirshland, has made clear needs to be updated. The organization takes roughly 1,000 athletes combined to the Winter and Summer Olympics during each four-year cycle but has just three mental health officers on its staff.
+
+“There is room for us to grow and improve,” said Bahati VanPelt, who became chief of athlete services for the U.S.O.P.C. last year. “I am a big believer in a framework that is holistic and available throughout the entire life cycle of an athlete’s career.”
+
+The crux of the problem, Phelps and other athletes say, is that for several years Olympic officials and elite athletes have had two very different definitions of athlete support.
+
+To the Olympic committee, athlete support has largely meant providing services — state-of-the-art training facilities, top coaches and sports scientists, access to sports psychologists, plus a lot of Team U.S.A. swag — that seemingly led directly to bringing home medals.
+
+To athletes, support should have evolved by now into something more holistic that included caring for their mental health in ways beyond the sports psychologists who focused on priming their minds for competition.
+
+“We have to educate people that mental health is not a weakness,” said Katie Uhlaender, a four-time Olympian in skeleton who is among the athletes profiled in the film. Others include Steven Holcomb, a gold medalist in bobsled who died in 2017; the figure skaters Sasha Cohen and Gracie Gold, and Jeret Peterson, an aerial skier who killed himself in 2011. “It’s a matter of having people come at this from the perspective of performing versus healing,” she said.
+
+Uhlaender and others say there is a dire need for athletes to have easier access to therapy that does not involve going through the coaches and high performance staff — people who each year evaluate their fitness for competition and membership on the national team and who might penalize an athlete they know has needed help dealing with mental illness.
+
+The U.S.O.P.C. has tried to move in this direction. A growing number of athletes have access to unlimited phone counseling and six in-person therapy sessions with a licensed professional through the employee assistance company ComPsych. The benefit was extended this year to some 4,400 athletes, more than three times the number that had access to it before the coronavirus pandemic caused the postponement of the Tokyo Games to 2021.
+
+Critics say ComPsych is really a corporate human resources tool rather than a mental health services entity. VanPelt confirmed that the Olympic committee is in talks with Talkspace, a telehealth and digital therapy company for which Phelps is both an investor and a spokesman.
+
+The committee is also building a registry of mental health professionals whom athletes will be able to consult without approval from anyone at the U.S.O.P.C., though who qualifies and pays for that benefit is still being worked out.
+
+In 2019, Kelly Catlin, an Olympic cyclist, killed herself, and this year, Pavle Jovanovic, a former Olympic bobsledder, killed himself.
+
+“I can’t see any more suicides,” Phelps said.
+
+Phelps said he discovered the value of therapy in 2014, during the first months of his comeback attempt ahead of the 2016 Olympics, when he was caught speeding and driving while intoxicated in a tunnel in Baltimore. He said he views the incident, and the suicidal thoughts he had afterward, as the culmination of years of “stuffing down” his feelings of emptiness, vulnerability and a lack of confidence about anything other than winning races.
+
+The opportunity to make “The Weight of Gold” arose in 2017 when its director, Brett Rapkin, approached Peter Carlisle, Phelps’s agent, about the project as Phelps was becoming more vocal about mental health. Rapkin had been working on a film about Holcomb, the bobsledder who struggled with depression and spoke openly about his suicidal thoughts. Rapkin last interviewed Holcomb in the spring of 2017, just days before Holcomb died alone at the Olympic Training Center in Lake Placid, N.Y., of an overdose of sleeping pills and alcohol.
+
+“The metaphor I like to use is when it comes to the spectrum of sports performance, we think the top is hitting a grand slam to win the game and the bottom is striking out, when in fact the actual bottom is not wanting to be alive,” Rapkin said.
+
+The filmmakers approached U.S.O.P.C. officials about participating in the film and providing footage. The organization said it would only do so at a cost of roughly $100,000 — a discount of its standard licensing fee. It also wanted the film to highlight the health services it provides, services that Phelps and other subjects in the film deemed wanting.
+
+That was not the film Phelps, Carlisle and Rapkin wanted to make. The result only has athletes on camera talking about their struggles.
+
+“I knew it was going to be emotional and raw,” Phelps said. “It’s the real emotions we lived with our whole career.”
+
+4.
+By Land, Sea or Catapult: How Smugglers Get Drugs Across the Border
+
+WASHINGTON — President Trump was mocked by some when he suggested during a recent conversation with reporters that people standing next to a border wall could be harmed by drug smugglers throwing heavy bags of illegal narcotics over the barrier.
+
+“As horrible as it sounds,’’ the president said, “when they throw the large sacks of drugs over, and if you have people on the other side of the wall, you don’t see them — they hit you on the head with 60 pounds of stuff? It’s over.”
+
+There have been no reports of anyone getting hit in the head by drug smugglers throwing large bags over a border wall. But as the federal government has increased the number of Border Patrol agents, drones, sensors, cameras and other technologies on the border with Mexico, drug cartels have been forced to become more creative.
+
+Smugglers have used a variety of methods to get drugs across the border, according to interviews with agents from the Border Patrol and Immigration and Customs Enforcement, congressional testimony and court records. About two million pounds of illegal drugs were seized by Customs and Border Protection last year, records showed.
+
+The majority of illegal drugs enter the United States in an assortment of vehicles, with drugs hidden in secret compartments in door panels or the roof, gas tanks, tires and even engines.
+
+Smugglers also dig cross-border tunnels, primarily to move large volumes of marijuana. While many tunnels are rudimentary, others have lighting, tracks and ventilation systems, even elevators. As of March 2016, a total of 224 tunnels were discovered on the Southwest border since 1990.
+
+Cargo trains, tractor-trailers and passenger buses have been used to move illegal drugs. Trucks and trains carrying fresh produce such as watermelons, limes and other fruits and vegetables have been used to bring in narcotics. Drug shipments are often painted green and hidden within crates with fake watermelons or limes. Cocaine has been found in tomato crates.
+
+In recent years, the Coast Guard and Customs and Border Protection have started to see small speedboats from Mexico used to smuggle drugs into the United States, particularly in California, in an effort to get around border walls and Border Patrol agents. From 2011 to 2016, border officials said there were 309 known attempts to smuggle drugs across the border using boats; officials said there was no way of knowing how many boats actually reach shore.
+
+Drug trafficking organizations have also taken to the air. Border Patrol and other law enforcement agents have encountered smugglers using ultralight aircraft to conduct drug drops. Customs and Border Protection data showed that ultralight aircraft may have been used to transport drugs on 534 occasions from 2011 to 2016. Drones have also been used.
+
+Less common methods for smuggling drugs include catapults and air compression guns.
+
+In February, Border Patrol agents near Douglas, Ariz., found and dismantled a catapult that was used by smugglers in Mexico to fire two bundles of marijuana — weighing about 47 pounds in total — into the United States.
+
+Since 2012, there were several instances in which Border Patrol agents found smugglers using air guns to launch drugs over border fencing. In one case agents seized more than 30 cans filled with marijuana that had been launched by air guns.
+
+Although smugglers have gotten more creative as security has increased, they haven’t completely abandoned old-fashioned forms of transportation, like mules with backpacks.
+
+5.
+Driverless Cars Are Taking Longer Than We Expected. Here’s Why.
+
+Automatic braking and lane-departure warnings are on the road, but a lot of work remains before self-driving cars become a reality.
+
+When world-altering technologies come about, people can find themselves, literally, at a loss for words. So they sometimes define new gizmos by what they are not, instead of what they are. The box that brought Fred Allen and Major Bowes into American homes was known early on as a wireless. The telephone you used while walking from room to room was cordless. And way back when, there was an innovative form of transportation called the horseless carriage.
+
+Now we are at the dawn of the driverless car, also often described as autonomous. Perhaps in time — as was the case with the radio, the automobile and the mobile phone — it will acquire an appellation of its own that is not so ungainly. Much may depend on how far beyond infancy this technology goes. It is an essential question and, setting aside the matter of language, it underpins the latest offering from Retro Report, a series of video documentaries exploring major news events of the past and their lasting impact.
+
+“I have to confess, I’m actually really torn,” said John Leonard, a robotics expert at the Massachusetts Institute of Technology. “Part of me feels that self-driving is impossible,” he continued, “but things that I think are impossible are happening today.”
+
+As things stand, partially autonomous vehicles are already on American roads, rigged out with features like automatic emergency braking and lane-departure warnings. But a lot of work remains to be done to make fully self-operating cars a fact of everyday life, and Retro Report explores some of the remaining obstacles: Streets and highways need to be mapped, down to a few centimeters. The machines must learn to grapple with snow or rain, which can throw their sensors out of whack. They will have to step up their game if they are to be able to respond instantly to the unexpected, be it a falling tree branch or a child darting into the road from between parked cars.
+
+“We can only drive in places that we have already built a map,” said Andrew Chatham, the software engineer who heads mapping efforts at Waymo, the self-driving technology company.
+
+Waymo — its name drawn from the slogan “WAY forward in MObile” — operates a driverless taxi service in a Phoenix suburb, and so far, so good. Then again, it’s Phoenix, where sunshine prevails and roadways are relatively benign. “A critical part of working as well as we do is being selective in what we attempt to drive,” Mr. Chatham acknowledged to Retro Report. “We are not driving in the dense traffic of Mumbai, where you have really hairy traffic conditions. We are not yet driving in the worst blizzard that you can imagine.”
+
+While the video focuses on technological challenges, there are societal concerns as well. For one thing, several million Americans earn a living behind the wheel, driving trucks, delivery vans, taxis, app-based cars, school buses and other vehicles. In a truly automated universe, they would have to find new ways to feed themselves and their families. Ancillary businesses from auto-repair shops to gas stations would probably be affected, too, and not necessarily for the better.
+
+One big argument in favor of driverless cars is obvious: safety. Robots don’t have one beer too many, or doze off or become distracted by text messages. (At least they don’t as of now. In the future, who knows?) Given the machines’ level of dependability, their advocates say, they would be lifesavers in a country that has 37,000 or so traffic deaths a year. The carnage could be reduced by as much as 90 percent, some analysts say, though an argument could be made, using measurements other than raw fatality totals, that road safety is vastly improved from decades ago. In 1945, for example, there were more than 10 fatalities for every 100 million vehicle miles traveled in the United States. That rate is now down to a bit more than 1 per 100 million vehicle miles.
+
+The fact is, no one can be certain about the safety potential of self-driving automobiles until they advance from the experimental stage and become ingrained in daily life. Machines are rarely, if ever, perfect. Humans never are, and their unpredictability is likely always to play a role. That was demonstrated last year with the first recorded pedestrian death at the hands of an autonomous vehicle. A woman in Tempe, Ariz., Elaine Herzberg, walked her bike across a street late at night, only to be killed by an Uber-operated car going slightly under the speed limit at about 40 miles per hour.
+
+No matter how sophisticated robotics may be, faith in them can easily be shaken. For evidence of that, you need look no further than the worldwide trepidation over flawed software designs that recently led to crashes of two Boeing 737 Max jets and killed 346 people. If anything, there are many more perils on earth than in the heavens.
+
+“When something goes wrong at 30,000 feet, you’ve got tens of seconds to be able to respond and recover from that before you’re in trouble,” Steven Shladover, a research engineer at the University of California, Berkeley, said to Retro Report. “If you’re driving on the freeway, you may have a tenth of a second to respond.”
+
+It just may be that an immutable anxiety about machines going rogue is part of the human condition. Why else would popular entertainment, across the decades, dwell on suddenly homicidal contraptions like the HAL 9000 in “2001: A Space Odyssey,” Colossus in “The Forbin Project,” VIKI in “I, Robot” and Skynet in the “Terminator” film series?
+
+Fears, however, can be overcome. Maybe the obstacles that stand in the way of a truly autonomous driving future can be as well. As John Leonard observed, the once-impossible has a way of becoming reality.
+
+That said, it is worth noting that Mr. Leonard has tutored his son, Matthew, in how to operate a car the old-fashioned way. The carriage may still be horseless, but it’s hardly ready to be driverless.
+
+6.
+Dispatch From Hungary: The Man Trying to Return His Country to the Free World
+
+BUDAPEST — On Tuesday, the day that the prime ministers of Poland, the Czech Republic and Slovenia traveled to Kyiv to show solidarity with a besieged Ukraine, Viktor Orban, the prime minister of nearby Hungary, trumpeted his neutrality at a sprawling rally in Budapest.
+
+“We cannot get between the Ukrainian anvil and the Russian hammer,” he said. He accused the Hungarian opposition of trying to drag Hungary to war and vowed to send neither troops nor weapons to the battleground.
+
+State-aligned media — which, in Hungary, is almost all media — had been blasting out Kremlin talking points for weeks, and it was easy to find people in the crowd who echoed them. An older man in a traditional black Bocskai jacket described Russia’s invasion as “just” and Volodymyr Zelensky as “scum” before blaming George Soros and the Freemasons for the war. A middle-aged woman expressed sympathy for Ukrainian refugees but accused Ukraine of provoking Russia by oppressing Russian and Hungarian speakers. “You don’t wake a sleeping lion,” she said.
+
+Hungary’s opposition — which appears, for the first time in over a decade, to have a shot at ousting the authoritarian Orban — held a rally in Budapest on the same day, on the opposite side of the Danube.
+
+I’d met the opposition candidate for prime minister, Peter Marki-Zay, the mayor of the southern Hungarian town of Hodmezovasarhely, the day before, as he worked on his speech. One of his central points, he said, was that Hungary must decide between two worlds: Vladimir Putin’s Russia or the liberal West. “Putin and Orban belong to this autocratic, repressive, poor and corrupt world,” Marki-Zay told me. “And we have to choose Europe, West, NATO, democracy, rule of law, freedom of the press, a very different world. The free world.”
+
+Recently, the political theorist Francis Fukuyama made a number of highly optimistic predictions about how Russia’s war on Ukraine would play out. Russia, he wrote on March 10, faced outright defeat, and Putin wouldn’t survive it. Further, he wrote, “the invasion has already done huge damage to populists all over the world, who, prior to the attack, uniformly expressed sympathy for Putin,” including Donald Trump and Orban. The Hungarian elections on April 3 will be an early test of this theory.
+
+Just as Israelis from across the political spectrum united to get rid of Benjamin Netanyahu, Hungarians of many different ideological persuasions are working together to defeat Orban, a hero to many American conservatives for his relentless culture-warring.
+
+Hoping to neutralize Orban’s demagogy against urban elites, the Hungarian opposition has united behind Marki-Zay, a 49-year-old Catholic father of seven and a relative political outsider.
+
+Marki-Zay, who lived in Indiana from 2006 to 2009, often sounds like an old-school Republican. He favors lower taxes and a decentralized government. “We want to give opportunity and not welfare checks to people,” he told me.
+
+He believes in Catholic teachings on gay marriage, abortion and divorce but doesn’t think they should be law. “We cannot force our views on the rest of the society,” he said. “One big difference between Western societies and certain Islamist states is that in Western society, church doesn’t rule everyday life.” Some on the left might blanch at the gratuitous invocation of Islam, but part of Marki-Zay’s skill is using conservative language to make case for liberalism.
+
+In the coming elections, Marki-Zay is an underdog, but the fact that he’s even in the running is a remarkable development in a country with a system as tilted as Hungary’s. Hungarian electoral districts are highly gerrymandered in favor of Orban’s party, Fidesz. Gergely Karacsony, the left-leaning mayor of Budapest and a political scientist, said the anti-Orban forces would probably need to win the popular vote by three or four percentage points to achieve a parliamentary majority. (By contrast, in the last elections Fidesz was able to win a two-thirds majority with 49 percent of the vote.) The opposition has had to contend with a near blackout in the mainstream media; Marki-Zay said he hasn’t been asked to appear on television since 2019, while Orban has unleashed a barrage of propaganda against him.
+
+Fidesz, he said, has convinced its base that the opposition “will take away their pensions, will cancel the minimum wage,” will send their children to fight in Ukraine and will “allow sex change operations without the consent of parents” for kindergartners. These voters, said Marki-Zay, “are just frightened. They hate. I meet such people every day during this campaign. People who are just shouting profanities. You can feel the hatred, and you can see in their eyes how fearful they are of Orban losing the election.”
+
+But plenty of voters are still reachable via social media and door-to-door canvassing. Marki-Zay puts his chances at about 50 percent, and while other analysts I spoke to thought his odds were lower, no one wrote him off. A big question is whether the crisis in Ukraine will make voters prioritize stability or turn Orban’s relationship with Putin into a liability. In a recent Euronews poll, 60 percent of respondents said Hungary has gotten too close to Russia and Putin, but that doesn’t mean the issue will determine their vote.
+
+Even if Orban wins another term, Peter Kreko, the director of the Political Capital Institute, a Budapest-based think tank, thinks Orban’s dream of creating a right-wing nationalist bloc in Europe is dead. The war in Ukraine has driven a wedge between him and the nationalist government in Poland, which favors an aggressive response to Russia.
+
+And a history of pro-Putin sentiment has suddenly become embarrassing for some of Orban’s European allies. Marine Le Pen, the leader of France’s far-right National Rally — who received a nearly $12 million loan from a Hungarian bank tied to Orban — has been put on the defensive over campaign fliers showing her shaking Putin’s hand. Matteo Salvini, the head of Italy’s right-wing League party, was humiliated during a visit to Przemysl, a Polish town near the Ukrainian border, when the mayor confronted him with a pro-Putin T-shirt like one that Salvini once wore in Moscow’s Red Square.
+
+There was supposed to be a Hungarian version of America’s Conservative Political Action Conference this month, but it has been postponed until May. In Budapest, many speculated that American Republicans weren’t as keen as they once were to be seen with Orban. “Right now, I think because Orban has so much aligned himself with Russia, I think it’s detrimental to his international image as well,” said Kreko. “And he might win one more round, but I think he just will not be able to fulfill all his authoritarian dreams.”
+
+At the opposition rally, which drew tens of thousands of people, a band played a Hungarian version of Patti Smith’s “People Have the Power,” and Smith, who performed in Budapest last year, sent a video greeting. Ukrainian flags dotted the crowd.
+
+Bogdan Klich, the minority leader in Poland’s Senate, watched from backstage. He hoped that a Marki-Zay victory would be a blow to anti-democratic forces in his own country. “There is a chance that illiberal democracy, that was presented and unfortunately implemented by Viktor Orban here, will be replaced by traditional European and Atlantic values,” he said. “I mean the rule of law, the respect for human rights and civil liberties, independence of judiciary, etc. This is what we need here in Hungary, and in Poland.”
+
+Orban’s rise to power marked the beginning of the authoritarian populist era. If he somehow falls, it might mark the beginning of the end of it.
+
+7.
+How China Embraces Russian Propaganda and Its Version of the War
+
+In much of the world, Russia is losing the information war over Ukraine. In China, though, it’s winning big.
+
+Hours after Russia invaded Ukraine on Feb. 24, the Chinese Communist Party tabloid, Global Times, posted a video saying that a large number of Ukrainian soldiers had laid down their arms. Its source: the Russian state-controlled television network, RT.
+
+Two days later, China’s state broadcaster Central Television Station (CCTV) flashed a breaking news alert, quoting Russia’s parliamentary speaker, that President Volodymyr Zelensky of Ukraine had fled Kyiv. CCTV then created a related hashtag on the Twitter-like platform Weibo that was viewed 510 million times and used by 163 media outlets in the country.
+
+On Feb. 28, as Russia became an international pariah, the Russian state-owned news agency Sputnik shared a message of strength with its 11 million Weibo followers. The Russian foreign ministry spokeswoman, Sputnik said, said Russia still had friends in the world, especially “a real giant” like China.
+
+“Add oil, Russia,” Sputnik’s Weibo follower @fengyiqing cheered on, using a Chinese expression of support. “All the people in the world who love justice are friends of Russia.”
+
+As European and American officials press Facebook, Twitter, TikTok and other online platforms to clamp down on Russian disinformation, China has embraced Russia’s propaganda and lies about the war. China’s state-owned media outlets quoted their Russian counterparts’ coverage without verification, helping to magnify their disinformation on the Chinese internet. They put Russian officials on state television networks with little pushback on their claims.
+
+When it comes to information, the Chinese government is a control freak, dictating and censoring what its 1.4 billion people consume. Beijing has silenced and jailed its critics and journalists. It has coerced and co-opted the biggest Chinese online platforms to enforce its censorship guidelines. It blocks nearly all major western news and information websites, including Google, Twitter, YouTube, Wikipedia, The New York Times, The Wall Street Journal and the BBC.
+
+Yet as the world faces one of its most serious geopolitical crises since the end of the Cold War, China let down its digital defenses and allowed Kremlin’s propaganda machine to help shape public perception of the war. No wonder the Chinese internet is overwhelmingly pro-Russia, pro-war and pro-Putin.
+
+If China wants to remain officially ambiguous about whether it supports Vladimir V. Putin’s war — refusing to call it an invasion and abstaining from a U.N. vote to condemn the invasion — its state-controlled media nonetheless makes very clear where China stands.
+
+The scene after a residential building near Kyiv was hit last week. Credit...Lynsey Addario for The New York Times
+The China-Russia information alliance is forged over a shared worldview of two leaders, Xi Jinping and Vladimir V. Putin, who, out of deep distrust of the United States, are determined to challenge the West’s dominance in the competition for public opinion.
+
+In a 2013 speech, Mr. Xi urged the country’s propaganda workers to enhance the country’s “international discourse power” under the notion of “telling China’s story well.” During a visit to RT’s headquarters in the same year, Mr. Putin said the network was created to “break the Anglo-Saxon monopoly on the global information streams.”
+
+In 2015, Mr. Xi and Mr. Putin decided the two countries should strengthen their cooperation in media. Since then, they’ve held a Sino-Russian media forum each year, aiming to “redefine the map of the international discourse.”
+
+Last November, a RT executive said at the forum that major Chinese media outlets quoted RT.com on average 2,500 times a week in 2021.
+
+Many Chinese media organizations admire RT and Sputnik, which they believe have broken the West’s information monopoly, or at least muddied the water. Many media experts have analyzed what China’s state-owned media could learn from their successes. One academic paper detailed RT’s coverage of Russia’s annexation of Crimea in 2014 to illustrate how the Russian network carefully planned its reporting strategy to increase its seeming credibility and accessibility so it could set its own agenda.
+
+When Russia invaded Ukraine, Kremlin’s media machines worked well in China. Combined with Beijing’s censorship of pro-Ukraine content, they wove a web of disinformation that proved difficult for most Chinese online users to escape.
+
+The message they are trying to drive home: Russia’s military actions are anti-West, anti-NATO expansion and anti-Nazi — thus justified and popular.
+
+In China’s state media, there’s very little about the international condemnation of Russia; Ukraine’s success in the battle for public opinion, led by President Zelensky; or antiwar protests in Russia.
+
+Image
+President Volodymyr Zelensky of Ukraine at a news conference in Kyiv on Thursday. Two days after Russia invaded Ukraine, China state TV, citing a Russian official, said that Mr. Zelensky had fled the capital. (He hadn’t.)Credit...Lynsey Addario for The New York Times
+The one-two punch is working, keeping the Chinese public from facts while sowing confusion.
+
+On the Chinese social media platforms, many people adopted Mr. Putin’s and Russian media’s language, calling the Ukrainian side extremists and neo-Nazis.
+
+They kept bringing up the Azov Battalion as if it represented all of Ukraine. The battalion, a unit of the Ukrainian National Guard, is known for having neo-Nazi sympathizers but remains a fringe presence in the country and its military.
+
+President Zelensky himself is Jewish and won the presidential election in 2019 with 73 percent of the votes. His approval rate soared to over 90 percent recently for his wartime leadership.
+
+The Russia-Ukraine War and the Global Economy
+Card 1 of 6
+Rising concerns. Russia’s invasion on Ukraine has had a ripple effect across the globe, adding to the stock market’s woes and spooking investors. The conflict has already caused?? dizzying spikes in energy prices, and could severely affect various countries and industries.
+
+The cost of energy. Oil prices already were the highest since 2014, and they have continued to rise since the invasion.  Russia is the third-largest producer of oil, so more price increases are inevitable.
+
+Gas supplies. Europe gets nearly 40 percent of its natural gas from Russia, and it is likely to be walloped with higher heating bills. Natural gas reserves are running low, and European leaders worry that Moscow could cut flows in response to the region’s support of Ukraine.
+
+Food prices. Russia is the world’s largest supplier of wheat; together, it and Ukraine account for nearly a quarter of total global exports. Countries like Egypt, which relies heavily on Russian wheat imports, are already looking for alternative suppliers.
+
+Shortages of essential metals. The price of palladium, used in automotive exhaust systems and mobile phones, has been soaring amid fears that Russia, the world’s largest exporter of the metal, could be cut off from global markets. The price of nickel, another key Russian export, has also been rising.
+
+Financial turmoil. Global banks are bracing for the effects of sanctions intended to restrict Russia’s access to foreign capital and limit its ability to process payments in dollars, euros and other currencies crucial for trade. Banks are also on alert for retaliatory cyberattacks by Russia.
+
+The fog of disinformation thickens when Chinese state media portrays Russia’s war as an anti-fascism effort. After Russia’s defense minister announced this week that his country would host the first international anti-fascism conference in August, the CCTV posted a one-paragraph story, then created a Weibo hashtag. Within 24 hours, it had 650 million views and was used by 90 media outlets. Many commenters called Ukraine and the United States fascist countries.
+
+Chinese media is also propagating Russian disinformation that Ukraine has been using civilians as human shields. In its prime-time news program on Feb. 26, CCTV quoted President Putin as making that allegation. A few days later the nationalistic news site, guancha.com, ran a banner headline that said the Russian military was going only after military targets, while the Ukrainian military was using civilians as human shields.
+
+Taken collectively, Chinese online users are seeing a quite different war from much of the world.
+
+While videos circulated outside China purportedly showing Ukrainians’ kind treatment of Russian prisoners of war, the trending social media topic in China was that captured Russians had endured Nazi-like torture. Both CCTV and the People’s Daily, the official newspaper of the Communist Party, created hashtags echoing the same, based on a briefing by the Russian defense ministry. They had combined views of more than 200 million.
+
+Mr. Putin and Mr. Xi in Beijing last month. The China-Russia information alliance is forged over a shared distrust of the United States, and a determination to wrest control of the narrative.Credit...Pool photo by Alexei Druzhinin
+Sputnik, with 11.6 million followers on Weibo, has been posting more than 100 items a day lately, populating its timeline with words like “criminal Zelensky,” “empire of lies,” “fake news” and “Nazi.”
+
+“We must stand with Russia!” Weibo user @qingdaoxiaowangzi commented on one of Sputnik’s posts, using a popular line on the Chinese internet. “If Russia falls, NATO and the neo-Nazi United States will bully China!”
+
+At the same time, Weibo and other platforms are censoring pro-Ukraine content. The Weibo account of the actor Ke Lan, which has 2.9 million followers, was suspended after she retweeted a video and a photo about an antiwar protest in Russia with the emoticon ??. So was the account of a transgender celebrity, Jin Xing, with 13.6 million followers. “Respect all lives and resolutely oppose the war!!!” her last post said.
+
+But as the war continues and China recalibrates its position, some Chinese online users have begun to scrutinize the Russian news media reports. Under a Sputnik Weibo post contending that the Ukrainian military murdered civilians, a user with the handle @jialalabadededashen wrote, “Is this another news item that was tailor made by the Russian news agency for China?”
+
+In a social media discussion, some people called out Russia for waging an information war in China. “Russia’s external propaganda has infiltrated China out-and-out,” wrote a Weibo user called @juediqiangshou. “That’s why all the excuses to justify the invasion are popular here.”
+
+Some people are also raising questions about whether the flood of pro-Russia information would be detrimental to the interests of China and its people.
+
+Even Wang Xiaodong, a famous nationalist writer, suggested on Weibo that the Russia-Ukraine war was more complicated than it seemed. “The Chinese people should have access to comprehensive and diversified information,” he wrote on Wednesday.
+
+8.
+Do Russian Oligarchs Have a Secret Weapon in London’s Libel Lawyers?
+
+How a group of attorneys worked to keep negative stories about President Vladimir Putin’s allies out of the British media for decades.
+
+LONDON — There were plenty of rave reviews for “Putin’s People,” a 2020 best seller about the Russian president’s inner circle, but a small group of spectacularly rich men hated the book and they didn’t hide their feelings. Over the course of a few weeks, all of them filed suit against the author, Catherine Belton, and her publisher, HarperCollins.
+
+The first case was filed by Roman Abramovich, a billionaire confidant of Vladimir V. Putin, who contested a suggestion in the book, articulated by three former associates, that he had bought the Chelsea soccer team on instructions from the Russian leader.
+
+The banking tycoons Mikhail Fridman and Petr Aven were next, and on the same day a letter of complaint arrived from Alisher Usmanov, a metals and mining magnate with a reported net worth of $20 billion. Rosneft, the Russian oil giant, soon piled on.
+
+“When we were facing this at the beginning, I didn’t know whether the publisher would be able to withstand the barrage of claims,” Ms. Belton said at a Foreign Affairs Committee hearing in Parliament two weeks ago. “This was five big cases from some of the world’s richest men, all at the same time, and I didn’t know whether we would have to withdraw the book.”
+
+The onslaught was facilitated by one of Britain’s legal niches: lawyers who specialize in suing, or threatening to sue, reporters, publishers and broadcasters for defamation.
+
+Britain has long had a reputation for plaintiff-friendly libel laws, and despite reform efforts in the past decade, the country has remained an accommodating home away from home for Russia’s robber barons. Until the war in Ukraine changed the political climate, the public here knew little about the history of the men who earned their fortunes by allying themselves with Mr. Putin, in no small part because reporting on them could prove financially ruinous.
+
+The stars of this corner of the bar include Nigel Tait, the managing partner at Carter-Ruck and head of the firm’s defamation and media law department. He represented Rosneft’s claim against Ms. Belton, and his online bio crows that one of his specialties is getting ahead of looming libel issues with a minimum of fuss.
+
+“He has prevented the publication of many articles about clients,” the bio states, “often by means of a phone call or letter.”
+
+Mr. Tait was among a group of lawyers denounced by name in a speech in Parliament in early March by Bob Seely, a Conservative member of Parliament for the Isle of Wight. Mr. Seely also called out Geraldine Proudler, a senior partner at a firm called CMS, who represented two of the oligarchs who sued over “Putin’s People.”
+
+“How on earth have we allowed this to happen?” Mr. Seely said in Parliament. “A free press should be intimidating kleptocrats and criminals. Why have we got to the position in our society, a free society, where we have kleptocrats and criminals and oligarchs intimidating a free media?”
+
+A libel lawyer on speed dial is just one of the many comforts and conveniences that British professionals offer oligarchs from around the world. A few trillion pounds have sloshed through London, with an assist from real estate agents eager to sell prime property and lawyers and bankers ready to launder cash in offshore havens, writes Oliver Bullough, author of “Butler to the World: How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and Criminals.”
+
+They are complemented, tag-team style, by advisers who help clients donate to universities and museums and make introductions to politicians as well as members of the royal family.
+
+“The idea is to build a reputation by being a philanthropist, or whatever, and once you have built that reputation you can defend it in a British court,” Mr. Bullough said. “A few donations here and there, and you’re kind of safe.”
+
+
+Multiple lawsuits were filed against Catherine Belton for her book “Putin’s People” and its publisher, HarperCollins.
+Oligarchs can donate their way to legal impunity because Britain’s libel laws place the burden of proof on defendants, who must prove that an allegedly libelous statement is true. In the United States, the First Amendment puts the burden of proof on the plaintiff, who must prove that a writer acted with reckless disregard for the truth.
+
+For years, an aggrieved claimant didn’t even need to live in Britain to file a suit here. This is what made London a premier destination for “libel tourists,” litigants in search of a friendly jurisdiction. The cottage industry this created was advertised by none other than Boris Johnson, who, in a 2012 speech to the Confederation of British Industry while the mayor of London, said: “If one oligarch feels defamed by another oligarch, it is London’s lawyers who apply the necessary balm to the ego.”
+
+The government attempted to rebalance the scales with the passage of the Defamation Act of 2013. It required plaintiffs to show a connection to the country in order to file in it, and stipulated that plaintiffs demonstrate they suffered “serious harm.”
+
+If this was supposed to embolden the media, it did not work, said Andrew Scott, an associate professor at the London School of Economics, who conferred with the Ministry of Justice as it drafted the law. The standards needed to win a defamation case were raised, he noted, but nothing was done to address the cost of the process. With journalists and publishers still facing the prospect of hugely expensive legal fees incurred battling angry oligarchs, there was little change.
+
+“Me and a colleague at the time wrote that the only ones who are going to benefit from this new law are lawyers and tyrants,” Mr. Scott added.
+
+This is why veteran reporters have finely honed intuitions about how to avoid trouble.
+
+“In the last couple weeks I’ve had a dozen editors ask me to write about Roman Abramovich, and I’ve had to reply that I have never looked at him because it’s never occurred to me that I’d get anything published about him,” Mr. Bullough said. “You become quite good at navigating the rules. It’s a very effective form of censorship.”
+
+So far, there has been no legal blowback from “Butler to the World,” which was published on March 10. The statute of limitations for libel cases is one year, and it isn’t unusual for oligarchs to sue as that deadline approaches. The cases against “Putin’s People,” for instance, landed as its first anniversary approached.
+
+The book was never pulled from stores, but battling the cases cost HarperCollins nearly $2 million in legal fees. Ultimately, some suits were tossed out, others settled, and in December, HarperCollins reached an agreement in which changes were made to the text, including additional denials from representatives of Mr. Abramovich. HarperCollins called the agreement fair, in part because no damages were paid to Mr. Abramovich.
+
+The publisher and Ms. Belton did issue an apology, stating that certain aspects of the book were insufficiently clear. As part of the agreement, the publisher also made a charitable contribution for an error relating to Mr. Abramovich’s ownership of the oil giant Sibneft.
+
+During the hearing in Parliament, Ms. Belton, who is a former Financial Times correspondent in Moscow, said some of the changes bothered her, small as they were. But continuing to fight in court would have cost another $3.3 million, she said, and Mr. Abramovich turned up the pressure by filing a similar case in Australia, which would have taken another $3.3 million to defend.
+
+“No matter how good the sourcing is on some of these claims, and no matter how great the public interest, the cases are just too expensive to defend,” she said. “The system is stacked in favor of deep-pocketed litigants from the outset.”
+
+The Russia-Ukraine War and the Global Economy
+Card 1 of 6
+Rising concerns. Russia’s invasion on Ukraine has had a ripple effect across the globe, adding to the stock market’s woes and spooking investors. The conflict has already caused?? dizzying spikes in energy prices, and could severely affect various countries and industries.
+
+The cost of energy. Oil prices already were the highest since 2014, and they have continued to rise since the invasion.  Russia is the third-largest producer of oil, so more price increases are inevitable.
+
+Gas supplies. Europe gets nearly 40 percent of its natural gas from Russia, and it is likely to be walloped with higher heating bills. Natural gas reserves are running low, and European leaders worry that Moscow could cut flows in response to the region’s support of Ukraine.
+
+Food prices. Russia is the world’s largest supplier of wheat; together, it and Ukraine account for nearly a quarter of total global exports. Countries like Egypt, which relies heavily on Russian wheat imports, are already looking for alternative suppliers.
+
+Shortages of essential metals. The price of palladium, used in automotive exhaust systems and mobile phones, has been soaring amid fears that Russia, the world’s largest exporter of the metal, could be cut off from global markets. The price of nickel, another key Russian export, has also been rising.
+
+Financial turmoil. Global banks are bracing for the effects of sanctions intended to restrict Russia’s access to foreign capital and limit its ability to process payments in dollars, euros and other currencies crucial for trade. Banks are also on alert for retaliatory cyberattacks by Russia.
+
+Historians trace the libel law bias in favor of the rich and powerful to the British aristocracy, which wanted to keep unflattering news out of the press. Now the legal and banking industries have pivoted to assist rich foreigners.
+
+The author Oliver Bullough: “The idea is to build a reputation by being a philanthropist, or whatever, and once you have built that reputation you can defend it in a British court.”Credit...Colin McPherson/Corbis, via Getty Images
+“We were the oligarchs,” Mr. Bullough said, summarizing the history of the British Empire. “Now, we don’t steal money from other countries any more. We just help the people who did the stealing.”
+
+Mr. Putin’s lethal incursion into Ukraine appears to have upended life here for rich, Kremlin-connected Russians. And Mr. Johnson is done wooing oligarchs on behalf of libel lawyers. In March, the prime minister was peppered with questions in Parliament about the way Britain’s legal sector has aided Putin allies for decades. He replied that the legal profession and “everybody involved in assisting those who wish to hide money in London, assisting corrupt oligarchs,” was “on notice.”
+
+Britain has placed more than 1,000 Russians and Russian entities under sanctions since the start of hostilities, including the men who sued Ms. Belton.
+
+And this month, the government set out a list of proposed reforms intended to end the “bullying” of reporters. The rich have been using “the threat of endless legal action and associated costs to pressure their opponents under defamation and privacy laws,” the Ministry of Justice stated. Among the ideas under consideration is a cap on the legal costs that plaintiffs can demand, or a new standard that requires plaintiffs show “actual malice” when bringing a case.
+
+Some law firms have already rethought their work in this field. None returned calls for comment, but CMS recently announced that it was closing its Moscow office, while rejecting any notion that Ms. Proudler had acted improperly. The firm also said it had been “reassessing its work for Russian clients” and decided “we will no longer be accepting new instructions from Russian-based entities or from any individuals with connections to the Russian government.”
+
+Carter-Ruck posted a statement on its website that said claims against the firm — a reference, presumably, to Mr. Seely’s withering assessment — “are misconceived and are rejected entirely.” It added that “we are not acting for, and will not be acting for, any individual, company or entity associated with the Putin regime in any matter or context, whether sanctions-related or otherwise.”
+
+One sign that the force field around oligarchs is getting porous are the stories now appearing in the British media, some of which would have been hard to imagine before the Russian invasion.
+
+Most notably, a popular BBC long-form news show, “Panorama,” just aired a documentary about the source of Roman Abramovich’s wealth. Richard Bilton, a reporter of the show, and Jonathan Coffey, a producer, would not discuss its journey from conception to broadcast, but it was apparently a lengthy one. Mr. Bilton said work on the 30-minute production started four years ago.
+
+Opposition leaders maintain that reforms proposed by the government are “too little, too late.” Susan Hawley, executive director of the nonprofit Spotlight on Corruption, agrees. She said Britain had become so legally and culturally enmeshed with oligarchs that the country was moving sluggishly compared with other European countries.
+
+“The European Union is freezing superyachts,” she said. “We’re so far behind that there’s a risk that by the time we get our act together, there won’t be anything left to freeze.”
+
+9.
+Shanghai’s Lockdown Tests Covid-Zero Policy, and People’s Limits
+
+A staggered lockdown on China’s commercial capital of 26 million people has sent beleaguered residents scrambling and raised fears of broader damage to the economy.
+
+Even before Shanghai imposed a lockdown to curb a rapidly spreading Covid outbreak, life for many in China’s wealthiest city had been upended by the virus — and the government’s response.
+
+Residents raced to hoard groceries in case they were ordered to stay home. Some protested at the gates of housing complexes that were locked with little notice. Others, sent to government isolation facilities, were forced to sleep on the floor because of a shortage of beds.
+
+For still others, the city’s Covid-19 restrictions have had life-threatening implications. Some residents have been confined at home, unable to get kidney dialysis or other urgent treatment. A nurse who suffered an asthma attack died after she was denied care by a hospital that cited Covid prevention protocols.
+
+Officials had tried to limit disruptions by confining buildings or neighborhoods, arguing that a full-scale lockdown in the city of 26 million was untenable. Officials said their more surgical approach would curb the outbreak while preserving economic life in Shanghai, a hub for international business.
+
+Then, on Sunday evening, the city’s officials signaled that doing both at once might no longer be feasible. The city declared a staggered lockdown that closed nonessential businesses, halted public transportation and confined the majority of the population to their homes.
+
+The measures split the city in half, first closing the eastern section for a five-day quarantine starting Monday, before turning to a similar shutdown in the western portion. Shanghai’s case load of 3,500 on Monday was tiny compared to much of the world, but it has been driven by the highly transmissible Omicron variant. Officials said the lockdown would enable the authorities to conduct mass testing.
+
+China has been grappling with the country’s largest outbreak since the pandemic began in Wuhan more than two years ago. The government’s fear is that an uncontrolled spread could overwhelm hospitals and cause a catastrophic loss of life. Large numbers of Chinese adults 80 and older are unvaccinated, and there is little immunity from earlier infections. Hong Kong’s struggle to contain a Covid outbreak has offered a glimpse of what that might look like: deaths there spiked in recent weeks, particularly among unvaccinated older adults.
+
+“The challenge is that lockdowns and nucleic testing demand manpower and medical resources in addition to their impact on the economy and life in general,” said Dali Yang, a professor of political science at the University of Chicago.
+
+“The leadership is trying hard to continue the current practices but are also assessing. But Omicron may very well force the hand of the leadership” to abandon its unsustainable reliance on lockdowns, he said. The government has been working on administering vaccine boosters for the elderly and buying anti-viral drugs to prepare for such a scenario, he said.
+
+The central government is still pushing officials across the country to stamp out the virus, deploying measures that are among the world’s strictest, including isolating anyone who tests positive and enforcing quarantines on people deemed at risk of infection. White-collar employees, shoppers and diners have been forced to isolate inside offices, stores and restaurants if they were deemed to be close contacts. People who test positive are either sent to hospitals or to government isolation facilities set up in schools, exhibition centers and other spaces.
+
+In Shanghai, though, signs abound that the policy, and the populace, are stretched thin.
+
+Ivy Sun, a 32-year-old counselor, had been looking forward to freedom after being held in her home under a five-day lockdown on her neighborhood. On Sunday, following the announcement of the citywide closure, she was suddenly allowed a breath of fresh air, but just for seven hours. She and her neighbors rushed out to get groceries and other supplies for yet another confinement.
+
+“It felt like an apocalyptic scene. Everyone ran out. A lot of people were on the streets near the neighborhood, and all the stores were filled with people,” Ms. Sun said.
+
+Shanghai has announced a staggered lockdown to conduct mass testing. Credit...Aly Song/Reuters
+Ms. Sun said that during her first lockdown, she couldn’t get groceries online because they sold out quickly. She and her neighbors got together and began buying necessities in bulk. She also wondered whether the panic-buying on Sunday, in which people crammed together inside enclosed stores, could have worsened the spread of the virus.
+
+The Biden administration will start vaccinating migrants at the border.
+The London police issue fines for Downing Street lockdown parties.
+In other cases, the unpredictability of the restrictions and seemingly indefinite confinement triggered protests. In central Shanghai, around two dozen residents of Jinghua Xinyuan, an apartment complex, crowded in front of a marble and metal security gate that was locked to prevent them from leaving.
+
+“We want to get out,” several residents shouted at police officers posted outside on Sunday afternoon, according to a video posted to Weibo that day and verified by The New York Times.
+
+The authorities had locked residents in the compound for three days, yet did not administer Covid tests even though some people had the virus, according to residents’ accounts posted online. They had given conflicting messages about how long this would go on, the residents complained.
+
+“The day before yesterday, they told us the 14-day lockdown had started. Yesterday, they said that the 14 days started yesterday, and today they said it started today,” shouted one man who wore a black cap and a sweatshirt. “Am I on a cruise at sea or what?”
+
+Calls to the neighborhood committee and the management office of the complex rang unanswered on Tuesday. A duty officer who answered the phone at the Xuhui district police station denied that there had been a protest.
+
+While the authorities have been quick to enforce isolation and home quarantine on residents, they have lagged in ensuring that all those in confinement can get help for serious medical conditions. Many residents have resorted to going online to beg for access to treatment such as dialysis.
+
+The Covid outbreak in Shanghai has prompted a rush for groceries, leaving shelves empty at many stores.Credit...Alex Plavevski/EPA, via Shutterstock
+Luker Dong, a resident in Pudong, said that his 73-year-old father suffered from uremia — a buildup of toxins in the blood — that required him to get hemodialysis at a hospital three times a week. But he has been forced to go without treatment for four days since his building went under lockdown, Mr. Dong said.
+
+Hospitals also would not accept his father, citing concerns about the outbreak, and the health authorities have not helped, he said. His father’s feet had swollen without the dialysis, which helps to filter waste and water from his blood.
+
+“If his organs fail, it will be too late,” Mr. Dong said in a telephone interview. Mr. Dong has posted calls for help on his Weibo page, saying on Monday: “I cannot just watch my father wait for his death at home.”
+
+Shanghai’s top health authorities have said that hospitals should ensure people who require treatments like dialysis and chemotherapy can get help while in lockdown. But cases like that of Mr. Dong’s father exposed gaps in the system.
+
+Such scenes and complaints were common in Wuhan and the province of Hubei when the outbreak first emerged because the health care system there was quickly overwhelmed. In Shanghai, where hospitals are among the country’s best, accounts of residents being denied treatment because of Covid measures have similarly stirred widespread anger and grief.
+
+Last week, a nurse suffered an asthma attack but couldn’t get help from the emergency department at the hospital where she worked because it was closed for Covid disinfection. Her family rushed her to another hospital but she died, according to a statement from Shanghai East Hospital, her employer.
+
+The central government is pushing officials across the country to stamp out the virus, deploying measures that are among the world’s strictest.Credit...Hector Retamal/Agence France-Presse — Getty Images
+On Friday, officials from Shanghai’s health commission expressed condolences to the nurse’s family. They urged hospitals to speed up infection screening, contact tracing and disinfection protocols to minimize disruptions to normal medical services.
+
+Still, Feng Wenliang, a reporter at the state-run China Food Security Newspaper, described the nurse’s death as shameful. “This slap was extremely loud,” he wrote on his social media account.
+
+“It has been three years since the pandemic, for such a thing to happen in Shanghai, which is at the forefront of national prevention and control” he added. “Their own nurse was sick, and the hospital where she worked refused to accept her.”
+
+“She was a nurse, but even more, a patient.”
+
+10.
+Will One Moldy Berry Ruin the Rest?
+Here’s what the experts say.
+
+Q: If I open a box of berries and one berry is moldy, do I need to throw out the whole box?
+
+Fresh strawberries, blueberries and blackberries are among America’s favorite fruits, but their goodness can be fleeting. Within a few days of bringing them home from the farmer’s market or grocery store, it’s common to find that some gray or white fuzz has staked a claim to a berry or two, prompting many to wonder: Are the rest safe to eat?
+
+Food safety experts say that while you shouldn’t eat berries that are obviously moldy, those without visible signs of the spores are fine to eat. And luckily, unlike other food safety concerns that may be invisible to the naked eye, berries with mold growth are easy to spot, said Benjamin Chapman, a professor and food safety specialist at North Carolina State University. (Botanically minded readers may note that many fruits commonly known as berries, including strawberries, raspberries and blackberries, aren’t true berries, but we will describe them as such for the sake of simplicity.)
+
+If his basket or clamshell is tainted by one or two moldy berries, “I don’t throw out the whole thing,” Dr. Chapman said. Instead, he tosses the moldy ones and carefully inspects adjoining berries for fuzz, which often appears around a bruise or the site of stem attachment. With the rest, he tries to eat them soon, because lingering mold spores may spread and develop more fuzz in a day or two.
+
+Molds are a type of fungi that, when viewed under a microscope, often “look like skinny mushrooms,” according to the U.S. Department of Agriculture. They grow threadlike roots that invade the interior of the food, and tiny stalks topped with spores on the surface. Certain types of molds produce toxins that can be harmful if eaten, and in some people, molds can trigger allergic reactions, Dr. Chapman said.
+
+The good news for berry eaters is that the molds commonly found on them “are actually not known to produce toxins, like some fungi do, and so there’s less risk,” said Elizabeth Mitcham, a professor and director of the Postharvest Technology Center at the University of California, Davis. Foods that have been found to grow these more dangerous molds include nuts, grains and apples, she said.
+
+Because molds on berries are usually innocuous, even accidentally eating a moldy berry — though not recommended — would be unlikely to make you sick, Dr. Mitcham said. Also, “you would probably spit it out before you managed to swallow it,” because moldy berries “have a very off, very bad flavor,” she added.
+
+Mold is a common enemy of berry growers and sellers, so it’s not surprising to find it in your berry basket, Dr. Mitcham said. Mold spores are ubiquitous in the environment; they can be carried by air or water and live in the soil of farm fields. The spores typically infect a berry plant’s flowers or fruit and then lie dormant until the fruit fully ripens. Given enough time, those spores will eventually germinate and can spread to adjoining fruits, especially in warmer temperatures, Dr. Mitcham said.
+
+Because mold spores are so pervasive, they’re probably present in small amounts on most fresh produce you eat. “I’m likely consuming mold spores all the time, and those mold spores are not making me sick,” Dr. Chapman said.
+
+Molds become more dangerous when they grow and invade deeper into the food product, where some types produce toxins. While this isn’t usually a problem with berries because of their shape, small size and the types of molds that grow on them, it is a greater concern with larger foods that are moist or have a soft or porous texture, like leftover meats or casseroles, jams and jellies, soft cheeses and breads. If there is mold on the surface of these foods, you should assume they are contaminated within and throw them away, according to the U.S.D.A.
+
+Before buying berries, inspect them carefully and avoid purchasing any with even slight signs of mold, Dr. Chapman said. At home, do another quick check and remove any fruit that is visibly moldy; then refrigerate the rest as soon as possible, Dr. Mitcham said. Don’t wash berries until just before you plan to eat them or cook with them, because moisture encourages mold growth, she added.
+
+Mold spores can settle and survive on surfaces, so it’s a good idea to clean your fridge regularly “to break the mold spore cycle,” Dr. Chapman said. The U.S.D.A. recommends cleaning the inside of your fridge with a tablespoon of baking soda dissolved in a quart of water every few months. And if you discover food that’s “egregiously moldy” in your fridge, you might decide that “Yep, today’s the day that I’m going to clean it out,” to prevent too many spores from making themselves at home and spreading to other foods, he added.
+
+11.
+U.S. Makes Final an Array of Rules on Food Safety
+
+Far-reaching food industry rules aimed at reducing food-borne illness in the United States have become final, the federal government announced on Thursday, nearly five years after Congress passed a law requiring an overhaul of the nation’s food safety system.
+
+About 48 million Americans a year become sick from food-borne diseases and 3,000 die, according to federal data, tallies that many health officials say could be significantly reduced if the food industry took a more proactive role in monitoring and reducing risks. But carrying out the law, the Food Safety Modernization Act, which was the first significant update of the Food and Drug Administration’s food safety authority in 70 years, has been criticized as slow.
+
+Two of the final rules that will underpin the law — detailing exactly how companies need to change their practices to comply — were made public on Thursday, including a requirement that food processing companies actively take steps to reduce risks, instead of acting only after someone gets sick. They will start to take effect next summer.
+
+“It’s a big step forward,” said Sandra Eskin, director of food safety at the Pew Charitable Trusts in Washington.
+
+Consumer advocates say the need is urgent. Just this week, federal health authorities said an outbreak of salmonella, most likely caused by cucumbers imported from Mexico, had sickened 341 people in 30 states. Seventy of those people were hospitalized and two have died, one in Texas and one in California. Also this year, Blue Bell Creameries, an ice cream producer with plants in Texas, Oklahoma and Alabama, had to recall all its products after 10 people became ill with listeria from eating them. Three of those people died.
+
+The new rules are related to the processing of foods like peanut butter and ice cream. A separate rule on fresh produce is not expected to become final until later this year. Today, nearly half of fresh fruits and one-fifth of vegetables in the United States are imported, a relatively recent shift that has created new difficulties for monitoring food safety.
+
+The new rules require food manufacturers to put in place written food safety plans that detail points in the manufacturing process that could be risky and steps they are taking to minimize that risk.
+
+Michael R. Taylor, deputy commissioner for foods and veterinary medicine at the F.D.A., said the law’s mandate was to “transform the whole food safety system,” a task that was sweeping and required months of negotiations with a vast array of groups like state and foreign governments, farms, food manufacturers and food importers. That the first rules became final in less than five years was a significant accomplishment, he said.
+
+He said that some large food producers already had sophisticated systems in place, for example, regular swabs of floors, drains and walls inside facilities to check for contaminants, and that the new rules had to be flexible to allow for pre-existing safety systems that were working.
+
+“We don’t want to issue regulations that force change for change’s sake if they don’t make a real difference in food safety,” he said. “Getting high rates of compliance is really the crucial issue.”
+
+The rules allow for some exemptions, including ones for small producers with less than $1 million in sales, something that some consumer advocates said amounted to a bit of a loophole. But for the most part, the consensus among advocates was that the rules were a vast improvement.
+
+The food industry also seemed satisfied. In a statement, the Grocery Manufacturers Association, a trade group representing food and beverage producers, praised the F.D.A. “for the deliberative and inclusive approach it took in developing these regulations.”
+
+Under the rules, food makers will be required to keep written records, effectively a sort of safety activity log for the production center, and F.D.A. inspectors will have the right to review them. That is a big change. Before, plants were not required to hand over records to inspectors, said David Plunkett, a senior staff lawyer at the Center for Science in the Public Interest’s food safety program. In 2005, an operator at a Peter Pan peanut butter factory refused to hand over records to an F.D.A. inspector, and the following year around 600 people fell ill from its products, he said.
+
+“It was like telling the police you can go where the robbery is happening but you don’t have the right to search for the robber,” Mr. Plunkett said. “Now they have access to a lot of information so they know what the plants are doing, even on days when they are not physically at the plant.”
+
+The F.D.A. will have far greater enforcement powers, too. Before the law, F.D.A. officials inspected plants only about once every 10 years, Ms. Eskin said. The law bumped that up to at least once every five years for high-risk plants and, starting early next year, to once every three years. The F.D.A. also will have the authority to close a facility when plans are inadequate. Previously, the agency had to wait until people became sick.
+
+In a phone call with reporters, Mr. Taylor reiterated concerns that carrying out the new duties would be difficult without significantly increased financing. The Obama administration has asked for $109.5 million in additional funding for fiscal 2016, but the House and Senate funding bills would provide less than half that.
+
+12.
+In China, Stomachs Turn at News of 40-Year-Old Meat Peddled by Traders
+
+From rat meat masquerading as lamb to tainted milk to exploding watermelons, Chinese consumers have become inured to stomach-churning food scandals. But on Tuesday, countless people were forced to ponder the benefits of vegetarianism after news reports emerged that unscrupulous meat traders had been peddling tons of beef, pork and chicken wings that in some cases had been frozen for 40 years.
+
+The Chinese news media announced that the authorities had seized nearly half a billion dollars’ worth of smuggled frozen meat this month across China, some of it dating to the 1970s. The caches of beef, pork and chicken wings, worth up to 3 billion renminbi, or $483 million, were discovered in a nationwide crackdown that spanned 14 provinces and regions, the state news agency Xinhua reported.
+
+Typically, the meat was shipped from abroad to Hong Kong and then brought to Vietnam, where traders would smuggle the product across the Chinese border without declaring it to customs officials or going through required inspection and quarantine procedures. From there, criminals would often transport the meat in unrefrigerated trucks to save costs and refreeze it several times before it reached customers.
+
+“It was too smelly. A truck full of it. I almost threw up when the door opened,” Zhang Tao, a customs administration official in Changsha, the capital of central Hunan Province, was quoted as saying by Xinhua. The authorities in Changsha seized 800 tons of frozen meat on June 1 and arrested 20 suspected members of two gangs.
+
+According to the Changsha Administration of Customs, one-third of the meat on sale at the largest wholesale market in the city was found to be illegally imported. While the origin of the smuggled meat was unclear, a report on the official Hunan propaganda department website said that the contraband had come from the border with Vietnam.
+
+In the region of Guangxi, which borders Vietnam, customs officials found that some of the smuggled frozen meat “was more than 40 years old,” according to The China Daily newspaper. Chinese officials did not explain where the meat originated or how it had been stored for almost two generations. After being refrozen, the meat was sold to retailers, supermarkets and restaurants across the country. China Central Television, the state broadcaster, showed workers in the southern city of Shenzhen repackaging the imported meat with Chinese labels, even though imported products, if legal, tend to be more profitable.
+
+Some of the meat was sold on the Internet. Many meat retailers have set up profiles on Taobao, the online shopping website owned by Alibaba, offering local and imported meat. Some claim to be selling beef imported from the United States, even though such beef has been barred from the Chinese mainland since 2003, after outbreaks of bovine spongiform encephalopathy, or mad cow disease.
+
+Food scandals are a politically sensitive issue in China, where tainted food has sickened huge numbers of people. In 2008, milk powder tainted with melamine, a toxic industrial compound, made 300,000 babies ill and six died. Since then, the country has encountered watermelons that exploded from the misuse of a growth accelerator chemical, pork soaked in a detergent additive, steamed buns tainted with pesticides, and 15,000 dead pigs drifting down the Huangpu River in Shanghai.
+
+But the news of 40-year-old frozen meat being sold to consumers has left even the most seasoned experts in shock. Bob Delmore, an expert on meat science at Colorado State University, said that although it was possible for meat to last that long frozen, it would be covered by “a tremendous amount of freezer burn” as the product lost moisture and the flesh degraded. But once it began to thaw, a consumer would immediately know something was wrong. “The dead giveaway would be the odor and the taste,” he said.
+
+In China, people turned to social media to complain about the latest scandal, with some considering vegetarianism, or at least a good wine vintage to make the risk go down easier. “A bottle of 1982 Lafite plus a piece of 70s steak and a pair of 80s chicken wings,” wrote one user on the Sina Weibo microblog. “Bon appétit!”
+
+
+
+
